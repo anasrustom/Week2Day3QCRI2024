@@ -28,7 +28,6 @@ def visualizeHeatMap(data):
     plt.show()
 
 
-user_number = int(input("Enter user number (1-3): "))
 
 while True:
     user_number = int(input("Enter user number (1-3): "))
